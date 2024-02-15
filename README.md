@@ -10,7 +10,7 @@ Above task can be achieved using template matching. Clip out the field images an
 ![input image](https://github.com/codewithamirshakya/document-field-detection/blob/master/doc.jpg)
 
 **Output image**
-![output image](https://github.com/codewithamirshakya/document-field-detection/blob/master/result.jpg)
+![output image](https://github.com/codewithamirshakya/document-field-detection/blob/master/result.png)
 
 
 
