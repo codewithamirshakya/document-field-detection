@@ -7,10 +7,11 @@ In this article, we will learn how to use template matching for detecting the re
 Above task can be achieved using template matching. Clip out the field images and apply template matching using clipped field images and the document image. The algorithm is simple yet reproducible into complex versions to solve the problem of field detection and localization for document images belonging to specific domains. 
 
 **Input image**
-[[https://github.com/codewithamirshakya/document-field-detection/blob/master/doc.jpg|alt=input image]]
+![input image](https://github.com/codewithamirshakya/document-field-detection/blob/master/doc.jpg)
 
 **Output image**
-[[https://github.com/codewithamirshakya/document-field-detection/blob/master/result.jpg|alt=output image]]
+![output image](https://github.com/codewithamirshakya/document-field-detection/blob/master/result.jpg)
+
 
 
 
